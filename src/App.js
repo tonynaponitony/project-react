@@ -4,7 +4,7 @@ function App() {
 	return (
 		<div className="App">
 			<button type="submit" class="button">
-				44
+				Кнопка
 			</button>
 		</div>
 	);
